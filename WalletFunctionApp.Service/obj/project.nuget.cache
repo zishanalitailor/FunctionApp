@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uGoozocesGSHVqqvUbn+TljZrKTlWKOXzl1LTlLD8iiNoFJLKRM5oCZxqEfJsJdX12NOsjyO2h6qcIEg8I3ERA==",
+  "dgSpecHash": "4M9kIBkfTNaSJ4CULNNfAksgwXCTbDZR6ZnI1uXydUWePA2RYyRyQZHv8BdieOAZ4CqghCGI746jQAfJqLkOcA==",
   "success": true,
-  "projectFilePath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Service\\WalletFunctionApp.Service.csproj",
+  "projectFilePath": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Service\\WalletFunctionApp.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZishanaliT\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ZishanaliT\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

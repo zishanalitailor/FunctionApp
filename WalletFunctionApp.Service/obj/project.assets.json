@@ -489,11 +489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Service\\WalletFunctionApp.Service.csproj",
+      "projectUniqueName": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Service\\WalletFunctionApp.Service.csproj",
       "projectName": "WalletFunctionApp.Service",
-      "projectPath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Service\\WalletFunctionApp.Service.csproj",
+      "projectPath": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Service\\WalletFunctionApp.Service.csproj",
       "packagesPath": "C:\\Users\\ZishanaliT\\.nuget\\packages\\",
-      "outputPath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Service\\obj\\",
+      "outputPath": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -517,8 +517,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\WalletFunctionApp.App\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj": {
-              "projectPath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj"
+            "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj": {
+              "projectPath": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj"
             }
           }
         }

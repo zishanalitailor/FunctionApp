@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lEXlgBsEaN5p3QKjeALNNZm8+xxQsY15fUUUduc+7tbNE9znQwD0G+I7lt2S7m7s52L8qouchDhnUl/Vn4J8lA==",
+  "dgSpecHash": "MvYM+db9qEA/juqFfivZAdQ5oLw1nxFNUZ6K7/OU+rT4+ssdO7Bim0Y2YDH8Z0qSY6kniKJlKExhDPD6rykcZQ==",
   "success": true,
-  "projectFilePath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj",
+  "projectFilePath": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

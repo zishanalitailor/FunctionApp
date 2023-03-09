@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj",
+      "projectUniqueName": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj",
       "projectName": "WalletFunctionApp.Domain",
-      "projectPath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj",
+      "projectPath": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj",
       "packagesPath": "C:\\Users\\ZishanaliT\\.nuget\\packages\\",
-      "outputPath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Domain\\obj\\",
+      "outputPath": "E:\\WalletFunctionApp.App\\FunctionApp\\WalletFunctionApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
