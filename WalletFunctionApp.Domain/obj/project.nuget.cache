@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "lEXlgBsEaN5p3QKjeALNNZm8+xxQsY15fUUUduc+7tbNE9znQwD0G+I7lt2S7m7s52L8qouchDhnUl/Vn4J8lA==",
+  "success": true,
+  "projectFilePath": "E:\\WalletFunctionApp.App\\WalletFunctionApp.Domain\\WalletFunctionApp.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://btlteamcity.saltswharf.btl.com:8080/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://btlteamcity.saltswharf.btl.com:7990/NuGetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
